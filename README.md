@@ -1,1 +1,1 @@
-My first README
+This is the git README
